@@ -1,10 +1,9 @@
 # Smart Inventory Management System
 
-A feature-rich Android application designed to streamline inventory management by integrating custom hardware with Bluetooth functionality, real-time database updates, and a user-friendly interface.
-
 ## Overview
 
-The **Smart Inventory Management System** empowers users to efficiently manage inventory using NFC tag scanning, Bluetooth communication, and Firebase real-time database integration. The system consists of a custom-designed hardware module and an Android application to deliver seamless inventory management.
+The **Smart Inventory Management System** is made for student clubs, mostly student clubs that have a lot of hardware. 
+The system empowers users to efficiently manage inventory using NFC tag scanning, Bluetooth communication, and Firebase real-time database integration. The system consists of a custom-designed hardware module and an Android application to deliver seamless inventory management.
 
 ## Features
 
