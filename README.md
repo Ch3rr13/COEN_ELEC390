@@ -1,7 +1,5 @@
 # Smart Inventory Management System
 
-![Project Image](Screenshot from 2024-11-18 16-18-17.png)
-
 A feature-rich Android application designed to streamline inventory management by integrating custom hardware with Bluetooth functionality, real-time database updates, and a user-friendly interface.
 
 ## Overview
